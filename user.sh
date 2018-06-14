@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Tell me a name for the user"
-echo "Please, use one word only, and no special characters"
+echo "Please, use one word only with no special characters."
 read -r USER #Gets the username from user input
 echo "What password should they have?"
 read -r PASSWORD #Gets the password from user input
